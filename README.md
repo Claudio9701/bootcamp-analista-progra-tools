@@ -6,15 +6,10 @@ Material para el curso de selección Herramientas de programación básica del B
 ### Contenido
 
 - *Sesión 1 - Teoría: Conceptos de programacion*
-  - Tema 1
-  - Tema 2
-  - Tema 3
-
+  - [Presentacion](https://github.com/Claudio9701/bootcamp-analista-progra-tools)
 
 - *Sesión 2 - Teoría: Lenguajes de programacion y aplicaciones*
-  - Tema 1
-  - Tema 2
-  - Tema 3
+  - [Presentacion](https://github.com/Claudio9701/bootcamp-analista-progra-tools)
 
 - *Sesion 3 - Práctica: Configuracion inicial*
   - [Ejercicio 1.1](ejercicios/1-1.md)
